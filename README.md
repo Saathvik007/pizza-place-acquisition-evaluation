@@ -41,4 +41,5 @@ The earlier deliverables:
 - The statements started from the course's Excel templates, which had made-up numbers. I changed them using what I saw at the pizzeria and public prices, so they are my estimates, not the pizzeria's real books. The $1,000,000 revenue base in D3 came from the project instructions.
 - Option B discounts the business's cash flows before loan payments but only subtracts the $100,000 of cash. That makes its NPV and IRR look higher than they would if the loan payments were taken out first, so I treat Option B's numbers as an upper bound.
 - After the course I corrected the NPV and IRR figures in the D3 report, the deck and the reflection so they match the D3 workbook. The versions I turned in quoted slightly different numbers.
+- I also rewrote parts of the reports in plainer words and fixed a few small mistakes, like the table numbers in D2 and the way D2 split Year 1 revenue between pizza, drinks and other items. The analysis is the same.
 - The video of my verbal presentation isn't included.
