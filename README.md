@@ -30,12 +30,7 @@ The earlier deliverables:
 
 | Path | What it is |
 |---|---|
-| deliverables/d1_pizzeria_visit.pdf | D1: site visit and interview |
-| deliverables/d2_scooter_financing.pdf, .xlsx | D2: report and workbook comparing cash, loan and lease for the scooter, with five-year statements and ratios |
-| deliverables/d3_acquisition_evaluation.pdf, .xlsx | D3: report and workbook with the pro forma statements, WACC, CAPM, free cash flow and NPV |
-| deliverables/d4_final_presentation.pdf | D4: final slide deck |
-| deliverables/d5_reflection.pdf | D5: written reflection |
-
+| [deliverables/d1_pizzeria_visit.pdf](deliverables/d1_pizzeria_visit.pdf) | D1: site visit and interview || [deliverables/d2_scooter_financing.pdf](deliverables/d2_scooter_financing.pdf), [.xlsx](deliverables/d2_scooter_financing.xlsx) | D2: report and workbook comparing cash, loan and lease for the scooter, with five-year statements and ratios || [deliverables/d3_acquisition_evaluation.pdf](deliverables/d3_acquisition_evaluation.pdf), [.xlsx](deliverables/d3_acquisition_evaluation.xlsx) | D3: report and workbook with the pro forma statements, WACC, CAPM, free cash flow and NPV || [deliverables/d4_final_presentation.pdf](deliverables/d4_final_presentation.pdf) | D4: final slide deck || [deliverables/d5_reflection.pdf](deliverables/d5_reflection.pdf) | D5: written reflection |
 ## Notes and limitations
 
 - The statements started from the course's Excel templates, which had made-up numbers. I changed them using what I saw at the pizzeria and public prices, so they are my estimates, not the pizzeria's real books. The $1,000,000 revenue base in D3 came from the project instructions.
